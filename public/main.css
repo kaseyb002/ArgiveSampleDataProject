@@ -1,0 +1,39 @@
+.quote {
+	font-style: italic;
+	font-size: 1.3em;
+	color: #666;
+	font-family: "Palatino Linotype", serif;
+	margin: 1em;
+}
+.big-header {
+	font-size: 4em;
+}
+.big-subtitle {
+	font-size: 2em;
+}
+.rule-summary {
+	font-size: 1.1em;
+}
+.footnote {
+	font-size: 0.9em;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+.timeline {
+	background-color: #ff7b14;
+	padding: 2em;
+	margin-left: 1em;
+	box-shadow: 2px 2px 5px grey;
+}
+.count {
+	background-color: #2667b7;
+	padding: 2em;
+	margin-right: 1em;
+	box-shadow: 2px 2px 5px grey;
+}
+.colored-background {
+	color: #FFF;
+}
+.comment-summary {
+	margin-bottom: 3em;
+}
